@@ -17,10 +17,10 @@
 ```npm install```
 
 3. Configure o arquivo .env com os dados do banco de dados:
-   ```DB_HOST=localhost
-DB_USER=seu_usuario
-DB_PASSWORD=sua_senha
-DB_NAME=seu_banco```
+- DB_HOST=localhost
+- DB_USER=seu_usuario
+- DB_PASSWORD=sua_senha
+- DB_NAME=seu_banco
 
 4. Inicie o servidor:
 ```npm run serve```
